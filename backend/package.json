@@ -1,0 +1,21 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-scripts": "5.0.1"
+},
+"devDependencies": {
+    "@babel/core": "^7.21.0",
+    "@babel/preset-env": "^7.21.0",
+    "@babel/preset-react": "^7.21.0",
+    "babel-loader": "^9.1.2"
+}
+
+}
